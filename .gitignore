@@ -1,0 +1,41 @@
+# Secrets — never commit
+.env
+.env.*
+
+# Virtual environments
+.venv/
+venv/
+env/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Build / dist
+dist/
+build/
+*.egg-info/
+
+# Logs
+logs/
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+notebooks/.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+
+# uv / pip
+uv.lock
+*.lock
+
+# Temp uploads
+tmp/

@@ -1,0 +1,10 @@
+python-dotenv
+anthropic
+langgraph
+langchain
+litellm
+langchain-tavily
+langchain_litellm
+streamlit
+langchain-groq
+ipykernel

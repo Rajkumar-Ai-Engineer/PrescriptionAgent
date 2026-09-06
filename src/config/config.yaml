@@ -1,0 +1,12 @@
+llm:
+  groq:
+    provider: "groq"
+    model_name: "groq:openai/gpt-oss-120b"
+    temperature: 0
+    max_output_tokens: 2048
+
+  Anthropic:
+    provider: "Anthropic"
+    model_name: "claude-sonnet-5"
+    temperature: 0
+    max_output_tokens: 2048
